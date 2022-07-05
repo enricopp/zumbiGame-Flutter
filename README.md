@@ -1,6 +1,6 @@
-# login
+# Zumbi Game
 
-A new Flutter project.
+Jogo onde você precisa escolher em qual portão vai enviar suas tropas.
 
 ## Getting Started
 
